@@ -1,0 +1,21 @@
+v1.1.0
+Force close during onResume fixed
+Saves states for orientation, clock and ball graphics
+Balls rotate realistically when swinging.
+
+v1.0.3
+Bugfix: Time on clock updates 
+
+v1.0.2
+Clock added for Nat B - clock can be at bottom of screen or on balls
+
+v1.0.1
+Toggle accelerometer on and off
+Physics model switched from double to float and Math package to FloatMath package for performance gains.
+Drag coefficient altered to give more realistic swinging times
+Bugfix: When touch holding a ball the other balls continue to react correctly
+Sound/Accelerometer Menu Items now have toggle graphics
+Sound sample improved and Sound model switched from MediaPlayer to SoundPool
+
+v1.0.0
+Initial version
